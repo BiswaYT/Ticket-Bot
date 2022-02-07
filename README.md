@@ -1,2 +1,5 @@
 # Ticket-Bot 
-hello world
+**Ticket bot with select menus and status change**
+**Bot made by Biswa YT**
+
+Thank you
